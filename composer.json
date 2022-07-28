@@ -1,0 +1,25 @@
+{
+    "vendor-name": "course-manager-API",
+
+    "authors": [
+        {
+            "name": "Matheus Viana de Souza",
+            "email": "matheus.viana518062@gmail.com",
+            "homepage": "https://vianav19.github.io/",
+            "role": "WEB Developer"
+        }
+    ],
+
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.5",
+        "illuminate/database": "^8.83",
+        "php-di/php-di": "^6.4"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "App\\":"App/"
+        }
+    }
+}
