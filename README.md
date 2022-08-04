@@ -19,12 +19,19 @@
 
 API criada em PHP para trabalhar com CRUD da aplicação <a href="https://github.com/vianaV19/Angular-Course-Manager">Course-Manager</a> feita utilizando framework angular. 
 
+#### Features: 
+ - Verbos HTTP respeitando a semântica ✔️ 
+ - Arquitetura de projeto MVC ✔️
+
 ---
 ## 💻 Technologies
 ### Frameworks
  - Slim Framework
 ### Languages 
  - PHP
+### Libraries
+ - Illuminate
+
 ---
 
 ## 🤔 How to use
