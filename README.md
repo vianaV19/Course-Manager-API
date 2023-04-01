@@ -6,12 +6,12 @@
 ---
 
 <h1 align="center">
-  Course-Manager-API
+  Course CRUD API
 </h1>
 
 ---
 
-<p align="center">API criada para o bootcamp DIO Santander Full Stack developer</p>
+<p align="center">API criada para ser consumida pelo app Angular-Course-Manager</p>
 
 ---
 
