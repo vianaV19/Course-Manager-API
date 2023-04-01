@@ -21,7 +21,7 @@ API criada em PHP que immplementa sistema CRUD para ser consumida pela aplicaç�
 
 #### Features: 
  - Verbos HTTP respeitando a semântica ✔️ 
- - Arquitetura de projeto MVC ✔️
+ - Sistema CRUD (Create, Read,  update and delete) ✔️
 
 ---
 ## 💻 Technologies
