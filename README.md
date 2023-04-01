@@ -11,13 +11,13 @@
 
 ---
 
-<p align="center">API criada para ser consumida pelo app Angular-Course-Manager</p>
+<p align="center">API criada para ser consumida pelo app <a href="https://github.com/vianaV19/Angular-Course-Manager">Angular-Course-Manager</a></p>
 
 ---
 
 ## 📖 About
 
-API criada em PHP para trabalhar com CRUD da aplicação <a href="https://github.com/vianaV19/Angular-Course-Manager">Course-Manager</a> feita utilizando framework angular. 
+API criada em PHP que immplementa sistema CRUD para ser consumida pela aplicação feita com framework angular2. 
 
 #### Features: 
  - Verbos HTTP respeitando a semântica ✔️ 
